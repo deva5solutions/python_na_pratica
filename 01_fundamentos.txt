@@ -1,0 +1,13 @@
+# Fundamentos Básicos
+
+# Criar ambiente virtual
+# Windows
+# python -m venv venv
+# venv\Scripts\activate.bat
+
+# Linux/Mac
+# python3 -m venv venv
+# source venv/bin/activate
+
+# Instalar pacotes
+# pip install pandas selenium pyautogui openpyxl scikit-learn
